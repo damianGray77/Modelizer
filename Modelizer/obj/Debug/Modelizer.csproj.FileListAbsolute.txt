@@ -1,0 +1,7 @@
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Modelizer\bin\Debug\Modelizer.dll
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Modelizer\bin\Debug\Modelizer.pdb
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Modelizer\bin\Debug\Tools.dll
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Modelizer\bin\Debug\Tools.pdb
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Modelizer\obj\Debug\Modelizer.csprojResolveAssemblyReference.cache
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Modelizer\obj\Debug\Modelizer.dll
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Modelizer\obj\Debug\Modelizer.pdb

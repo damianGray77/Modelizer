@@ -1,0 +1,4 @@
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Tools\bin\Debug\Tools.dll
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Tools\bin\Debug\Tools.pdb
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Tools\obj\Debug\Tools.dll
+C:\Users\damiangray\Documents\Visual Studio 2013\Projects\Modelizer 2.0\Tools\obj\Debug\Tools.pdb
